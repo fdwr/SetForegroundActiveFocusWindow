@@ -3,13 +3,6 @@
 Tests various focus setting functions in Windows to see which ones annoyingly steal
 the keyboard focus from the active window.
 
-- SetActiveWindow
-- SetFocus
-- SetWindowPosition
-- BringWindowToTop
-- SetForegroundWindow
-- SwitchToThisWindow
-
 ![Image of program](Readme.png)
 
 ## Results:
